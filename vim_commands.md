@@ -9,17 +9,17 @@
 **two different files**: `:sp filename` or `:vs filename` to open a specific file in a new split.<br/>
 ### navigating between split screens:
 **`Ctrl`+`w` +:**
-+ `h`: Move to the left split.
-`j`: Move to the below split.
-`k`: Move to the top split.
-`l`: Move to the right split.
-`w`: Cycle through open splits. 
-`+`: Increase Height
-`-`: Decrease Height
-`>`: Increase Width
-`<`: Decrease Width
-`=`: Equal Size
-`H`/`J`/`K`/`L` (capital letters) moves the current split to the far left, bottom, top, or right, respectively. 
+`h`: Move to the left split.<br/>
+`j`: Move to the below split.<br/>
+`k`: Move to the top split.<br/>
+`l`: Move to the right split.<br/>
+`w`: Cycle through open splits. <br/>
+`+`: Increase Height<br/>
+`-`: Decrease Height<br/>
+`>`: Increase Width<br/>
+`<`: Decrease Width<br/>
+`=`: Equal Size<br/>
+`H`/`J`/`K`/`L` (capital letters) moves the current split to the far left, bottom, top, or right, respectively. <br/>
 ### exiting split screen:
 **Close Current:** `Ctrl`+`w` + `q` (or `:q` inside the split).
 **Close Others:** `Ctrl`+`w` + `o` (keeps only the active split). 
