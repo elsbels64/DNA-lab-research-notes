@@ -1,4 +1,4 @@
-# exiting vim
+# Exiting vim
 `:q`	Quit the editor, but only if no changes were made to the file.<br/>
 `:q!`	Quit and abandon all changes since the last save (force quit).<br/>
 `:wq`	Save the changes and then quit.<br/>
