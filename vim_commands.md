@@ -1,3 +1,9 @@
+# exiting vim
+`:q`	Quit the editor, but only if no changes were made to the file.<br/>
+`:q!`	Quit and abandon all changes since the last save (force quit).<br/>
+`:wq`	Save the changes and then quit.<br/>
+`:x`	Save and quit (optimized; only writes if changes were made).<br/>
+# Editing text
 ## lining up the columns on a seg file:
 1. `ggVG` to select the whole buffer (text) in visual mode
 2. `!column -t` 
