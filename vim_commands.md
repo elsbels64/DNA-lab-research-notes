@@ -1,3 +1,5 @@
+# Viewing text
+
 ## lining up the columns on a seg file:
 1. `ggVG` to select the whole buffer (text) in visual mode
 2. `!column -t` 
