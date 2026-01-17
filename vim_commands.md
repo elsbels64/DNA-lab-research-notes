@@ -8,7 +8,7 @@
 **vertically**: (`:vsplit` or `:vs` *OR* `Ctrl+w`, then `v`): Splits the screen vertically, placing the new window to the left.<br/>
 **two different files**: `:sp filename` or `:vs filename` to open a specific file in a new split.<br/>
 ### navigating between split screens:
-**`Ctrl`+`w` +:**
+**`Ctrl`+`w` +:**<br/>
 `h`: Move to the left split.<br/>
 `j`: Move to the below split.<br/>
 `k`: Move to the top split.<br/>
