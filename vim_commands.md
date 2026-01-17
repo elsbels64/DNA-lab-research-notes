@@ -21,5 +21,5 @@
 `=`: Equal Size<br/>
 `H`/`J`/`K`/`L` (capital letters) moves the current split to the far left, bottom, top, or right, respectively. <br/>
 ### exiting split screen:
-**Close Current:** `Ctrl`+`w` + `q` (or `:q` inside the split).
-**Close Others:** `Ctrl`+`w` + `o` (keeps only the active split). 
+**Close Current:** `Ctrl`+`w` + `q` (or `:q` inside the split).<br/>
+**Close Others:** `Ctrl`+`w` + `o` (keeps only the active split). <br/>
