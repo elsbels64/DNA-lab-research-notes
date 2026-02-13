@@ -1,0 +1,2 @@
+- how would you recommend learning how to do good documentation?
+- would you rather we write the code ourselves for pileup filter or find a prewritten code
