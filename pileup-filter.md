@@ -7,7 +7,8 @@ I want to create a function that will bin all the data based on where it is on t
 Then I want to filter out areas that are shared by a freshold greater than a certain amount.
 
 ## questions I have about my understanding
-<img width="576" height="324" alt="ibd_pileup_clarification_drawing" src="https://github.com/user-attachments/assets/2b22e7c0-0247-4dfa-aaec-33ef6d2efc48" />
+ <img width="576" height="324" alt="ibd_pileup_clarification_drawing" src="https://github.com/user-attachments/assets/d7d82061-2de2-4cc6-93aa-f0d028ff784c" />
+</br>
 - I coded up a really really quick mock one and it seems like it just ended up filtering out all the segments. 
 -  are we supposed to cut out areas that are above the threshold from each of the segments
 - OR are we supposed to filter out segments that include the areas that are above the thresholds
