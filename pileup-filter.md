@@ -15,6 +15,9 @@ Then I want to filter out areas that are shared by a freshold greater than a cer
 - OR a mix of both
 - will this cause breakpoints are places that we deem as a cut off
 
+
+- if the area extending over a high probability by a less than certain amount then you cut off that end and if you cut off one end, you cut off the middle. Then keep track of the other end (if it the other end extends long enough), so that you know it isn't a real break point
+
 # prewritten options:
 1. PLINK (The "Gold Standard")
 PLINK is the most widely used tool in genetics. It handles IBD segments (usually in .genome or .segments formats) and can perform "segment pruning."
