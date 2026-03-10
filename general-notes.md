@@ -1,5 +1,7 @@
 # to-do:
 - double check that I merged the plink.GRCh37.map.zip file into one file correctly
+-  figuring out which genetic map to use for phaseibd. tried the same one I used for hapibd, and ped-sim, but it didn't work. --> ask Amy Williams. look into other options. look into the map that phaseibd recomends. does it matter if they use the same map?
+-  currently working on trying to get phaseibd's output to look somewhat like hapibd, so I can hopefully make it easier to test the difference between phaseibd's output and hapibd's output.
 
 # 2/27/26
 - just trying to figure out if  HAPIBD does a good job
