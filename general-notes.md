@@ -1,7 +1,9 @@
 # to-do:
-- double check that I merged the plink.GRCh37.map.zip file into one file correctly
--  figuring out which genetic map to use for phaseibd. tried the same one I used for hapibd, and ped-sim, but it didn't work. --> ask Amy Williams. look into other options. look into the map that phaseibd recomends. does it matter if they use the same map?
--  currently working on trying to get phaseibd's output to look somewhat like hapibd, so I can hopefully make it easier to test the difference between phaseibd's output and hapibd's output.
+- write some unit tests for determine_segment_differences.py OR inspect examples like we've done in person
+- input seg file that's got like 2 segments
+- a test file that's got like all the different edge cases
+- for drop duplicates, get a count of the number of duplicates and assert that it's zero.
+- you can add aliases to your bashrc so you can type stuff faster
 
 # 2/27/26
 - just trying to figure out if  HAPIBD does a good job
