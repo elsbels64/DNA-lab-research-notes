@@ -1,11 +1,13 @@
 # to-do:
 - write some unit tests for determine_segment_differences.py OR inspect examples like we've done in person
-- input seg file that's got like 2 segments
-- a test file that's got like all the different edge cases
-- for drop duplicates, get a count of the number of duplicates and assert that it's zero.
-- you can add aliases to your bashrc so you can type stuff faster
+  - input seg file that's got like 2 segments
+  - a test file that's got like all the different edge cases
+  - for drop duplicates, get a count of the number of duplicates and assert that it's zero.
+- set up ibis
+- 
 
 # 2/27/26
+- you can add aliases to your bashrc so you can type stuff faster
 - just trying to figure out if  HAPIBD does a good job
   -   for all ped-sim segs greater than 5 centimorgans
     - find all overlapping infered segments. that overlap the true segment by a certian percentage (require that some large percentage of the inferred segment length overlaps the true segment)
