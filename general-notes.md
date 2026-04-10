@@ -3,8 +3,8 @@ IBD end-point accuracy
 - run phase IBD on 2nd cousin VCF
 - spot check/write unite tests for comparison script
 - use SAMAFS unrelated as input to Ped-sim
- - Run PRIMUS using ibis relatedness measures to find max set of unrelated people
- - run ped-sim on these people
+  - Run PRIMUS using ibis relatedness measures to find max set of unrelated people
+  - run ped-sim on these people
 - run ibis on 2nd cousin data (Why are we doing this?)
 
 # 2/27/26
