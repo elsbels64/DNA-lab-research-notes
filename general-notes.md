@@ -1,10 +1,11 @@
 # to-do:
-- write some unit tests for determine_segment_differences.py OR inspect examples like we've done in person
-  - input seg file that's got like 2 segments
-  - a test file that's got like all the different edge cases
-  - for drop duplicates, get a count of the number of duplicates and assert that it's zero.
-- set up ibis
-- 
+IBD end-point accuracy
+- run phase IBD on 2nd cousin VCF
+- spot check/write unite tests for comparison script
+- use SAMAFS unrelated as input to Ped-sim
+ - Run PRIMUS using ibis relatedness measures to find max set of unrelated people
+ - run ped-sim on these people
+- run ibis on 2nd cousin data (Why are we doing this?)
 
 # 2/27/26
 - you can add aliases to your bashrc so you can type stuff faster
