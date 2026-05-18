@@ -7,6 +7,13 @@ IBD end-point accuracy
   - run ped-sim on these people
 - run ibis on 2nd cousin data (Why are we doing this?)
 
+# 5.18.27
+- make it so code can look at more than 2 individuals at once
+- 3 properties we're looking for
+- (IBD between A and B) - start or end at the same place -
+- IBD from A1 to A2 - it should contain that position. should extend past x
+- IBD from B1 to B2 - it should contain that position. should extend past x
+
 # 2/27/26
 - you can add aliases to your bashrc so you can type stuff faster
 - just trying to figure out if  HAPIBD does a good job
